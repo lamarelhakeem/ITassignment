@@ -1,0 +1,46 @@
+* {
+  font-family: Courier New;
+  text-align: center;
+  color: firebrick;
+  padding: 10px;
+}
+body {
+  background-color: mistyrose;
+}
+header {
+  font-size: 30px;
+  color: white;
+  padding: 20px;
+  background-color: FireBrick;
+}
+nav {
+  padding: 50px;
+}
+nav a:hover {
+  color: black;
+}
+.intro {
+  border: 5px solid maroon;
+}
+footer {
+  color: white;
+  background-color: FireBrick;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+th, td {
+  border: 3px solid firebrick;
+}
+form {
+  border: 3px solid firebrick;
+}
+.email a:hover {
+  color: black;
+}
+#submit {
+  background-color: linen;
+  border-block-color: firebrick;
+}
